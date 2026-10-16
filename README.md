@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # CalmYoga
 
 CalmYoga is an interactive yoga companion application specifically designed for HarmonyOS wearables. It aims to provide a seamless and mindful yoga experience by combining visual training with physical haptic feedbacks.
